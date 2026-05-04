@@ -97,4 +97,4 @@ jobs:
           
       #     # push normally (and possibly major)
       #     tag_push $VERSION
-      #     # Can't push multiple tags at once: https://github.com/docker/cli/issues/267
+  
